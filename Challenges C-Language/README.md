@@ -13,4 +13,4 @@ Olá, Vou estar incluindo nesta pasta alguns desafios, questões para resolver! 
 
 3. Crie uma função que conta o número de vezes que um caractere específico aparece em uma string usando ponteiros.
 
-      <a href=""> Ver resolução </a>
+      <a href="https://github.com/AR097/Practice-C-Language/blob/main/Challenges%20C-Language/Contar%20o%20N%C3%BAmero%20de%20Ocorr%C3%AAncias%20em%20uma%20String.cpp"> Ver resolução </a>
