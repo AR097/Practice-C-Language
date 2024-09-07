@@ -5,12 +5,12 @@ Olá, Vou estar incluindo nesta pasta alguns desafios, questões para resolver! 
    
  1. Escreva uma função que troca os valores de duas variáveis usando ponteiros.
 
- <a href="https://github.com/AR097/Practice-C-Language/blob/main/Challenges%20C-Language/Ponteiros/Trocar%20Valores%20Usando%20Ponteiros.cpp"> Ver resolução </a>
+      <a href="https://github.com/AR097/Practice-C-Language/blob/main/Challenges%20C-Language/Ponteiros/Trocar%20Valores%20Usando%20Ponteiros.cpp"> Ver resolução </a>
 
 2. Escreva uma função que troca os valores de três variáveis usando ponteiros.
 
-<a href="https://github.com/AR097/Practice-C-Language/blob/main/Challenges%20C-Language/Ponteiros/Trocar%20Valores%20Usando%20Ponteiros%2002.cpp"> Ver resolução </a>
+      <a href="https://github.com/AR097/Practice-C-Language/blob/main/Challenges%20C-Language/Ponteiros/Trocar%20Valores%20Usando%20Ponteiros%2002.cpp"> Ver resolução </a>
 
 3. Crie uma função que conta o número de vezes que um caractere específico aparece em uma string usando ponteiros.
 
-<a href=""> Ver resolução </a>
+      <a href=""> Ver resolução </a>
