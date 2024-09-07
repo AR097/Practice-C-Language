@@ -17,4 +17,8 @@ Olá, Vou estar incluindo nesta pasta alguns desafios, questões para resolver! 
       
 4. Implemente uma função que inverte um array de inteiros usando ponteiros.
 
-      <a href="https://github.com/AR097/Practice-C-Language/blob/main/Inverter%20um%20Array.cpp">Ver resolução</a>
+      <a href="https://github.com/AR097/Practice-C-Language/blob/main/Inverter%20um%20Array.cpp"> Ver resolução </a>
+
+5. Escreva um programa que aloca um array dinamicamente, redimensiona-o e preenche com valores.
+
+     <a href=""> Ver resolução </a>
