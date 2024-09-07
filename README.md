@@ -10,6 +10,7 @@ Olá! Atualmente estou cursando na faculdade "Programação de Software Básico"
 # Índice:
 1. Aplicativo de Cálculo de Fatorial
 2. Aplicativo de Cálculo de Fatorial 02
+3. Aplicativo Leitor de Alturas
    
 # Projetos
 <!--Aplicativo de Cálculo de Fatorial->
@@ -43,5 +44,21 @@ Preview:<br>
 </details>
     <div align="left">
       <img src="https://github.com/AR097/Practice-C-Language/blob/main/Aplicativo%20de%20C%C3%A1lculo%20de%20Fatorial%2002/Aplicativo%20de%20C%C3%A1lculo%20de%20Fatorial%2002.jpg" width="200"/>
+    </div>
+    
+<!--Aplicativo Leitor de Alturas->
+<!--Aplicativo Leitor de Alturas-->
+<details>
+  <summary> Aplicativo Leitor de Alturas </summary>
+<br>Descrição: <br>
+
+Este projeto é um aplicativo simples de leitor de altura que nos fornece a maior, menor e a média das alturas fornecidas.
+
+📌 <a href="https://github.com/AR097/Practice-C-Language/tree/main/Aplicativo%20Leitor%20de%20Alturas">Visite o repositorio deste projeto</a><br><br>
+Preview:<br>
+</details>
+    <div align="left">
+      <img src="https://github.com/AR097/Practice-C-Language/blob/main/Aplicativo%20Leitor%20de%20Alturas/Captura%20de%20tela%202024-09-07%20151059.jpg" height="150"/>
+      <img src="https://github.com/AR097/Practice-C-Language/blob/main/Aplicativo%20Leitor%20de%20Alturas/Captura%20de%20tela%202024-09-07%20151020.jpg" height="150"/>
     </div>
     
