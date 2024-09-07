@@ -7,3 +7,7 @@ Olá, Vou estar incluindo nesta pasta alguns desafios, questões para resolver! 
     Escreva uma função que troca os valores de duas variáveis usando ponteiros.
 
     <a href="https://github.com/AR097/Practice-C-Language/blob/main/Challenges%20C-Language/Ponteiros/Trocar%20Valores%20Usando%20Ponteiros.cpp"> Ver resolução </a>
+
+   Escreva uma função que troca os valores de três variáveis usando ponteiros.
+
+   <a href="https://github.com/AR097/Practice-C-Language/blob/main/Challenges%20C-Language/Ponteiros/Trocar%20Valores%20Usando%20Ponteiros%2002.cpp"> Ver resolução </a>
