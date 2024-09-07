@@ -6,8 +6,6 @@ Olá! Atualmente estou cursando na faculdade "Programação de Software Básico"
 ![Open Issues](https://img.shields.io/github/issues/AR097/Practice-C-Language)
 ![Forks](https://img.shields.io/github/forks/AR097/Practice-C-Language?style=social)
 ![Stars](https://img.shields.io/github/stars/AR097/Practice-C-Language?style=social)
-# ---Important--- 
-Projects create for studies, the code may be buggy.<br>
 <br>
 # Índice:
 1. Aplicativo de Cálculo de Fatorial
