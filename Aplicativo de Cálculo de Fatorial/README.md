@@ -53,6 +53,34 @@ Linguagem de Programação C
 
 Entrada e saída de dados via console
 
+```
+#include <stdio.h> // Inclui a biblioteca padrão de entrada e saída --> necessária para usar printf e scanf.
+
+int main() { // Início da função principal onde a execução do programa começa.
+    int A, fatorial = 1; // Declara duas variáveis inteiras. 'A' será usada para armazenar o valor fornecido pelo usuário e 'fatorial' é inicializado como 1, que será usado para calcular o fatorial.
+
+    printf("Digite um valor para A: "); // Imprime uma mensagem solicitando ao usuário que digite um valor para A.
+    scanf("%d", &A); // Lê um valor inteiro fornecido pelo usuário e armazena na variável A.
+
+    if (A < 0) { // Verifica se o valor de A é negativo.
+        printf("Não é possivel calcular um fatorial de um número negativo. \n"); // Se A for negativo, imprime uma mensagem informando que o fatorial não pode ser calculado para números negativos.
+        return 1; // Retorna 1 para indicar que ocorreu um erro e termina a execução do programa.
+    }
+
+    printf("%d! = ", A); // Imprime o valor de A seguido de "!" e um sinal de igual para mostrar que o cálculo do fatorial vai começar.
+    for (int i = A; i > 0; i--) { // Inicia um laço que começa em A e decrementa até 1. Esse laço será responsável por calcular o fatorial de A.
+        fatorial *= i; // Multiplica o valor atual de fatorial pelo valor de i e armazena o resultado em fatorial.
+        printf("%d", i); // Imprime o valor atual de i.
+        if (i > 1){ // Se i é maior que 1, significa que ainda não chegamos ao final da multiplicação.
+            printf(" X "); // Imprime o símbolo de multiplicação " X " para mostrar a operação de fatorial em andamento.
+        }
+    }
+    printf(" = %d\n", fatorial); // Depois do loop, imprime o resultado final do fatorial, com o valor calculado.
+
+    return 0; // Retorna 0 para indicar que o programa terminou sua execução com sucesso.
+}
+```
+
 # Codigo:
 ```
 #include <stdio.h>
