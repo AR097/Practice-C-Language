@@ -10,38 +10,46 @@ Este projeto é um aplicativo simples desenvolvido em C que recebe um número in
 
 3. **Cálculo do Fatorial**: Para números iguais ou maiores que zero, o programa imprime a sequência de multiplicações que formam o fatorial e, ao final, o resultado do fatorial de \( A \).
 
-Por exemplo, para \( A = 5 \), a saída será:
+      Por exemplo, para \( A = 5 \), a saída será:
+      
+      `5! = 5 X 4 X 3 X 2 X 1 = 120`
 
-5! = 5 X 4 X 3 X 2 X 1 = 120
+4. **Saída**:
 
-4. **Saída**: O resultado final será o valor do fatorial do número inserido.
-
+   `O resultado final será o valor do fatorial do número inserido.`
+   
 ## Exemplo de Uso
 
 Entrada do usuário:
 
-Digite um valor para A: 5
+   `Digite um valor para A: 5`
 
-Saída:
+Saída: 
 
-5! = 5 X 4 X 3 X 2 X 1 = 120
-
+   `5! = 5 X 4 X 3 X 2 X 1 = 120`
 
 Se o número inserido for negativo:
-Digite um valor para A: -3 Não é possível calcular o fatorial de um número negativo.
+Digite um valor para A: -3 
+   
+   `Não é possível calcular o fatorial de um número negativo.`
 
 
 ## Como Compilar e Executar
 
 Para compilar e executar este programa, siga os passos abaixo:
 
-1. Compile o código usando um compilador C (por exemplo, `gcc`):
+1. Compile o código usando um compilador C:
    ```bash
    gcc fatorial.c -o fatorial
-```
-./fatorial
+   ```
+2. Execute o programa
+   ```bash
+   ./fatorial
+   ```
+   
+## Tecnologias Utilizadas
 
-Tecnologias Utilizadas
 Linguagem de Programação C
+
 Entrada e saída de dados via console
 
