@@ -2,6 +2,10 @@
 
 Olá! Atualmente estou cursando na faculdade "Programação de Software Básico" por isso, irei praticar mais a linguagem em C e relembrar alguns conceitos! Fiquem a vontade para usar as anotações e os aplicativos desenvolvidos por mim nesta pasta! Mas lembrem-se a finalidade é estudo, vocês podem enontrar Bugs, não se assustem rsrsrs :) 
 
+-------
+
+Hi! Actualitly im cursing "Softwerer developer Basic", for this reason, i will go practice a C language and remenber a concepts! Feel free for use a notes and apps developer for me in this folder! But remenberm a finish is studing, you can find Bugs, not scared rsrsrs :)
+
 ![Last Commit](https://img.shields.io/github/last-commit/AR097/Practice-C-Language)
 ![Open Issues](https://img.shields.io/github/issues/AR097/Practice-C-Language)
 ![Forks](https://img.shields.io/github/forks/AR097/Practice-C-Language?style=social)
