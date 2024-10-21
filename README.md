@@ -15,6 +15,7 @@ Hi! Actualitly im cursing "Softwerer developer Basic", for this reason, i will g
 1. Aplicativo de Cálculo de Fatorial
 2. Aplicativo de Cálculo de Fatorial 02
 3. Aplicativo Leitor de Alturas
+4. Bibiliotea data, hora
    
 # Projetos
 <!--Aplicativo de Cálculo de Fatorial->
@@ -64,5 +65,18 @@ Preview:<br>
     <div align="left">
       <img src="https://github.com/AR097/Practice-C-Language/blob/main/Aplicativo%20Leitor%20de%20Alturas/Captura%20de%20tela%202024-09-07%20151059.jpg" height="150"/>
       <img src="https://github.com/AR097/Practice-C-Language/blob/main/Aplicativo%20Leitor%20de%20Alturas/Captura%20de%20tela%202024-09-07%20151020.jpg" height="150"/>
+    </div>
+    
+<!--Bibiliotea data, hora->   
+<!--Bibiliotea data, hora-->
+<details>
+  <summary> Bibiliotea data, hora </summary>
+<br>Descrição: <br>
+
+📌 <a href="https://github.com/AR097/Practice-C-Language/tree/main/Bibilioteca%20data%2C%20hora">Visite o repositorio deste projeto</a><br><br>
+Preview:<br>
+</details>
+    <div align="left">
+      <img src="https://github.com/AR097/Practice-C-Language/blob/main/Bibilioteca%20data%2C%20hora/Data%2C%20hora%20em%20C.jpg" height="150"/>
     </div>
     
